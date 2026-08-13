@@ -9,15 +9,6 @@
 
 ---
 
-## 🛠 Project Update
-
-This repository previously contained only a README, a presentation PDF, and dashboard
-screenshots — no dataset and no code. **This revision adds the actual notebook**
-(`Tech_Trends_Analysis.ipynb`) that produces every chart and insight referenced below,
-built directly from the public Stack Overflow Developer Survey 2019 data.
-
----
-
 ## 📌 Business Problem
 
 Technology is evolving rapidly, making it difficult for organizations, developers, and
